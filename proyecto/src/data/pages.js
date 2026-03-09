@@ -1,11 +1,11 @@
-// src/data/pages.js
+
 
 export const pages = {
   iPhone: {
     eyebrow: "Novedades de Apple",
     title: "iPhone 16 Pro",
     subtitle: "Titanio. Tan pro. Tan iPhone.",
-    bg: "linear-gradient(160deg, #000000, #0d0d0d, #1a1a1a)",
+    bg: "linear-gradient(160deg, #2064d3, #0d0d0d, #1a1a1a)",
     accent: "#2997ff",
     textLight: false,
     cards: [
